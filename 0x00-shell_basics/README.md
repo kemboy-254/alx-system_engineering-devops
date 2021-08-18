@@ -1,2 +1,2 @@
 #!/bin/bash
-Software Engineering
+echo "Software Engineering"
